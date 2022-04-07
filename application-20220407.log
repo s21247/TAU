@@ -1,0 +1,45 @@
+2022-04-07 12:35:46.762 [main] INFO  SeleniumTest - Strona glowna
+2022-04-07 12:35:48.029 [main] INFO  SeleniumTest - Buty i odzie¿ online na Zalando. Moda | darmowa* dostawa i zwrot
+2022-04-07 12:35:48.176 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:35:48.322 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:35:50.207 [main] INFO  SeleniumTest - [[ChromeDriver: chrome on WINDOWS (03137e093d19ab28acd3cdef349d562e)] -> xpath: //*[text()='Procedura zwrotu']]
+2022-04-07 12:35:50.258 [main] INFO  SeleniumTest - Metody platnosci
+2022-04-07 12:37:52.631 [main] INFO  SeleniumTest - Strona glowna
+2022-04-07 12:37:54.075 [main] INFO  SeleniumTest - Buty i odzie¿ online na Zalando. Moda | darmowa* dostawa i zwrot
+2022-04-07 12:37:54.105 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:37:55.963 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:37:55.980 [main] INFO  SeleniumTest - [[ChromeDriver: chrome on WINDOWS (5e9170b64e0e11454b0ca7974040cd8e)] -> xpath: //*[text()='Procedura zwrotu']]
+2022-04-07 12:37:56.042 [main] INFO  SeleniumTest - Procedura zwrotu
+2022-04-07 12:37:56.751 [main] INFO  SeleniumTest - Produkt beauty
+2022-04-07 12:37:57.332 [main] INFO  SeleniumTest - [[ChromeDriver: chrome on WINDOWS (5e9170b64e0e11454b0ca7974040cd8e)] -> xpath: //*[text()='Zwracasz produkt Beauty?']]
+2022-04-07 12:39:45.705 [main] INFO  SeleniumTest - Strona glowna
+2022-04-07 12:39:46.818 [main] INFO  SeleniumTest - Buty i odzie¿ online na Zalando. Moda | darmowa* dostawa i zwrot
+2022-04-07 12:39:46.942 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:39:47.886 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:39:47.900 [main] INFO  SeleniumTest - [[ChromeDriver: chrome on WINDOWS (56ac8c424c4a785bbf23bb0155080f90)] -> xpath: //*[text()='Procedura zwrotu']]
+2022-04-07 12:39:48.652 [main] INFO  SeleniumTest - Procedura zwrotu
+2022-04-07 12:39:48.668 [main] INFO  SeleniumTest - Produkt beauty
+2022-04-07 12:40:14.934 [main] INFO  SeleniumTest - Strona glowna
+2022-04-07 12:40:16.287 [main] INFO  SeleniumTest - Buty i odzie¿ online na Zalando. Moda | darmowa* dostawa i zwrot
+2022-04-07 12:40:16.423 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:40:17.481 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:40:17.497 [main] INFO  SeleniumTest - [[ChromeDriver: chrome on WINDOWS (f872e1e882a4645e23d6fcd4207460bb)] -> xpath: //*[text()='Procedura zwrotu']]
+2022-04-07 12:40:20.161 [main] INFO  SeleniumTest - Procedura zwrotu
+2022-04-07 12:40:20.177 [main] INFO  SeleniumTest - Produkt beauty
+2022-04-07 12:40:21.172 [main] INFO  SeleniumTest - [[ChromeDriver: chrome on WINDOWS (f872e1e882a4645e23d6fcd4207460bb)] -> xpath: //*[text()='Zwracasz produkt Beauty?']]
+2022-04-07 12:41:42.051 [main] INFO  SeleniumTest - Strona glowna
+2022-04-07 12:41:43.164 [main] INFO  SeleniumTest - Buty i odzie¿ online na Zalando. Moda | darmowa* dostawa i zwrot
+2022-04-07 12:41:43.197 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:41:45.151 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:41:45.165 [main] INFO  SeleniumTest - [[ChromeDriver: chrome on WINDOWS (95cfc869f02915c478a8e4ee8255c60c)] -> xpath: //*[text()='Procedura zwrotu']]
+2022-04-07 12:41:45.229 [main] INFO  SeleniumTest - Procedura zwrotu
+2022-04-07 12:41:45.851 [main] INFO  SeleniumTest - Produkt beauty
+2022-04-07 12:41:46.426 [main] INFO  SeleniumTest - [[ChromeDriver: chrome on WINDOWS (95cfc869f02915c478a8e4ee8255c60c)] -> xpath: //*[text()='Zwracasz produkt Beauty?']]
+2022-04-07 12:42:22.336 [main] INFO  SeleniumTest - Strona glowna
+2022-04-07 12:42:23.453 [main] INFO  SeleniumTest - Buty i odzie¿ online na Zalando. Moda | darmowa* dostawa i zwrot
+2022-04-07 12:42:23.568 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:42:25.443 [main] INFO  SeleniumTest - Pomoc i kontakt
+2022-04-07 12:42:25.458 [main] INFO  SeleniumTest - [[ChromeDriver: chrome on WINDOWS (5af8e73dad934b1e56d7ece03f3f4a9e)] -> xpath: //*[text()='Procedura zwrotu']]
+2022-04-07 12:42:26.213 [main] INFO  SeleniumTest - Procedura zwrotu
+2022-04-07 12:42:26.229 [main] INFO  SeleniumTest - Produkt beauty
+2022-04-07 12:42:26.815 [main] INFO  SeleniumTest - [[ChromeDriver: chrome on WINDOWS (5af8e73dad934b1e56d7ece03f3f4a9e)] -> xpath: //*[text()='Zwracasz produkt Beauty?']]
